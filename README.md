@@ -21,7 +21,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Logic Diagram**
 
-### Procedure
+### Procedure:
 
 1.	Type the program in Quartus software.
 
@@ -56,7 +56,7 @@ endmodule
 
 ```
 
-### RTL realization
+### RTL realization:
 <img width="752" height="791" alt="Screenshot 2025-11-18 221425" src="https://github.com/user-attachments/assets/999aaafe-65fe-4522-8eb5-dc1ce717d5dd" />
 
 
