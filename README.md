@@ -57,13 +57,14 @@ endmodule
 ```
 
 ### RTL realization
-<img width="1919" height="1078" alt="RTL exp2" src="https://github.com/user-attachments/assets/3e4f1a73-470b-47b3-9c0c-b9c104d1be40" />
+<img width="752" height="791" alt="Screenshot 2025-11-18 221425" src="https://github.com/user-attachments/assets/999aaafe-65fe-4522-8eb5-dc1ce717d5dd" />
+
 
 
 ### Output:
-<img width="1919" height="1079" alt="WAVE exp2" src="https://github.com/user-attachments/assets/193af1f0-dcf7-47d7-acbc-60d9478fe233" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 223526" src="https://github.com/user-attachments/assets/86880977-ebe5-430e-be9c-e4a5b079ff89" />
+
 
 ## Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
